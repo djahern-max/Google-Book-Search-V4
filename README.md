@@ -12,10 +12,10 @@ This App is deployed on Heroku:
 
 ## Technologies used:
 
-M - Mongo
-E - Express
-R - React
-N - Node.js
+M-Mongo/
+E-Express/
+R-React/
+N-Node.js/
 
 ## Dependencies:
 
